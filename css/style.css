@@ -3,7 +3,7 @@ body{
     color:black;
     margin: 0px;
     padding: 0px;
-    background: url('/img/img1.jpg');
+    background: url('img/img1.jpg');
 }
 .left{
     display: inline-block;
